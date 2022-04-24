@@ -1,1 +1,1 @@
-# proj_ml_bank
+# Starter for mini-project 3.
